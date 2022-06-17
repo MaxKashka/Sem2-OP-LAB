@@ -1,0 +1,7 @@
+﻿  Sem2 Lab5C++.cpp
+C:\Visual studio\ADF\Нова папка\Sem2 Lab5C++\Sem2 Lab5C++\Sem2 Lab5C++.cpp(5,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Visual studio\ADF\Нова папка\Sem2 Lab5C++\Sem2 Lab5C++\Sem2 Lab5C++.cpp(11,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Visual studio\ADF\Нова папка\Sem2 Lab5C++\Sem2 Lab5C++\Sem2 Lab5C++.cpp(13,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Visual studio\ADF\Нова папка\Sem2 Lab5C++\Sem2 Lab5C++\Sem2 Lab5C++.cpp(16,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Visual studio\ADF\Нова папка\Sem2 Lab5C++\Sem2 Lab5C++\Sem2 Lab5C++.cpp(18,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Sem2 Lab5C++.vcxproj -> C:\Visual studio\ADF\Нова папка\Sem2 Lab5C++\Debug\Sem2 Lab5C++.exe
