@@ -1,0 +1,6 @@
+﻿  Geo.cpp
+C:\Visual studio\ADF\Нова папка\Sem2Lab3C++\Sem2Lab3C++\Geo.cpp(11,9): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Visual studio\ADF\Нова папка\Sem2Lab3C++\Sem2Lab3C++\Geo.cpp(45,19): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  main.cpp
+  Создание кода...
+  Sem2Lab3C++.vcxproj -> C:\Visual studio\ADF\Нова папка\Sem2Lab3C++\Debug\Sem2Lab3C++.exe
