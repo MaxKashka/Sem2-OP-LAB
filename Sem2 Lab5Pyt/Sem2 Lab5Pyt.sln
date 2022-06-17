@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Sem2 Lab5Pyt", "Sem2 Lab5Pyt\Sem2 Lab5Pyt.pyproj", "{F9C17FCB-DB0F-431D-9F02-0168CDD5D1FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9C17FCB-DB0F-431D-9F02-0168CDD5D1FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9C17FCB-DB0F-431D-9F02-0168CDD5D1FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8684B35-0E1C-4A8C-8E43-F9A2BF1A118C}
+	EndGlobalSection
+EndGlobal
